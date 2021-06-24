@@ -7,6 +7,7 @@ Created with support and for [Natluk community](https://discord.gg/BA7wcxk3wb)
 ----
 Global prefix `;`
 
-| command name  | function      | channel type | permission |
-|:-------------:|:-------------:|:------------:|:----------:|
-| help      | shows help board with commands  | all        | all     |
+| command name  | parameters      | function      | channel type | permission |
+|:-------------:|:-------------:|:-------------:|:------------:|:----------:|
+| help      | None | shows help board with commands  | all        | all     |
+| top      | number: amount of members in the ranking    | displays ranking of the most active people  | all        | all     |
